@@ -1,0 +1,8 @@
+Plotted to 'C:\Users\ELCOT\OneDrive\Documents\KiCad\queaky stem toy\queaky stem toy-backups\gerber\queaky stem toy-F_Cu.gbr'.
+Plotted to 'C:\Users\ELCOT\OneDrive\Documents\KiCad\queaky stem toy\queaky stem toy-backups\gerber\queaky stem toy-B_Cu.gbr'.
+Plotted to 'C:\Users\ELCOT\OneDrive\Documents\KiCad\queaky stem toy\queaky stem toy-backups\gerber\queaky stem toy-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\ELCOT\OneDrive\Documents\KiCad\queaky stem toy\queaky stem toy-backups\gerber\queaky stem toy-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\ELCOT\OneDrive\Documents\KiCad\queaky stem toy\queaky stem toy-backups\gerber\queaky stem toy-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\ELCOT\OneDrive\Documents\KiCad\queaky stem toy\queaky stem toy-backups\gerber\queaky stem toy-job.gbrjob'.
+Info: Done.
+Info: Done.
